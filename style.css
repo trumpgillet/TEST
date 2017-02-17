@@ -1,0 +1,31 @@
+body{
+	text-align: center;
+	margin: 0;
+	background-color: #E5E7E9;
+	font-family: verdana;
+	color: rgb(55, 55, 55);
+	font-size: 16px;
+	background-image: url("images/back.jpg");
+
+}
+navbar-default{
+	background-color: lightgrey
+}
+
+h1, h2 {
+	text-align: center
+	color: white;
+  text-shadow: 1px 1px 3px black;
+
+}
+
+li{
+	display:inline-block;
+}
+#header {	
+  background-image: url("images/trump.png");
+  background-size: cover;
+  padding: 200px;
+  color: white;
+
+}
